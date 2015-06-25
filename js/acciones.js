@@ -15,7 +15,7 @@ $(document).ready(function(e) {
 	
 $ ('#btvibrar') .on ('tap' , function () { 
   navigator .vibrate (1000);
-  alert( "difii")
+ 
  });//  tap a btnvibrar
 
 
